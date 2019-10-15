@@ -1,0 +1,6 @@
+# Items
+item.cactus_fruit.name=Cactus Fruit
+item.cactus_fruit.tooltip=§7A piece of cactus imbued with §bmana§7, integral for the creation of succulents.
+
+# Utilities
+util.shift_for_tooltip=§7Hold §bShift§7 for more info.

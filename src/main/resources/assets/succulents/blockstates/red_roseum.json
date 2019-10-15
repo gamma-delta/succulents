@@ -1,0 +1,11 @@
+{
+  "forge_marker": 1,
+  "variants": {
+    "off": [{
+      "model": "botania:shapes/cross_tinted",
+      "textures": {
+        "cross": "succulents:succulents/red_roseum"
+      }
+    }]
+  }
+}

@@ -1,0 +1,11 @@
+[{
+  "modid": "succulents",
+  "name": "Succulents",
+  "description": "An addon to Botania that adds succulents: flowers with powerful effects that die if you don't treat them right.",
+  "version": "${version}",
+  "mcversion": "${mcversion}",
+  "logoFile": "assets/succulents/textures/logo.png",
+  "updateJSON": "minecraftforge.net/versions.json",
+  "authorList": ["GammaDelta"],
+  "credits": "Vazkii, for making Botania."
+}]
